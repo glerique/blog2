@@ -17,8 +17,7 @@ class Post extends Entity
     private $published;
     private $userId;
 
-
-    //GETTERS    
+   
     
     public function getTitle()
     {
